@@ -12,7 +12,7 @@ public class Main {
         }
 
         System.out.println("Итоговый баланс:");
-        System.out.println(balance + AmountPlusBalance + bonus);
+        System.out.println((balance + AmountPlusBalance + bonus) + " рублей");
 
     }
 }
